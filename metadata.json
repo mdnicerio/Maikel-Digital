@@ -1,0 +1,5 @@
+{
+  "name": "Social Post Omni-Adapter",
+  "description": "A powerful tool to write a single social media post and have it automatically adapted for various platforms like Twitter, LinkedIn, Instagram, and Facebook using the Gemini API. Optimize your message for each audience with a single click.",
+  "requestFramePermissions": []
+}
